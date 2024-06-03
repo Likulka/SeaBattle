@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="26.091503mm"
+   height="19.297941mm"
+   viewBox="0 0 26.091503 19.297941"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.36569515"
+     inkscape:cx="520.9257"
+     inkscape:cy="475.80615"
+     inkscape:window-width="958"
+     inkscape:window-height="1016"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-80.425684,-121.44635)">
+    <g
+       id="g3"
+       style="stroke:#000000;stroke-opacity:1"
+       inkscape:export-filename="g3.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#2b0000;fill-opacity:0.842697;stroke:#000000;stroke-width:0.284889;stroke-opacity:1"
+         d="m 80.679977,134.45182 3.774721,6.14982 18.087212,-0.0452 3.72229,-6.14981 z"
+         id="path1-2"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#070606;fill-opacity:0.842697;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+         d="m 94.683206,124.90013 0.09044,9.04385 9.315174,-5.42631 z"
+         id="path3-8" />
+      <path
+         style="fill:#070606;fill-opacity:0.842697;stroke:#000000;stroke-width:0.336158;stroke-opacity:1"
+         d="m 90.871477,121.69779 0.111298,11.85764 11.468565,-7.11459 z"
+         id="path3-8-9" />
+    </g>
+  </g>
+</svg>
