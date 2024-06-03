@@ -43,3 +43,6 @@ The second player then places their ships on a blank grid following the same ste
 ### End of Game
 
 The game ends when one player sinks all the opponent's ships. A victory message will appear, and the player can choose to restart the game or exit.
+
+### Gameplay
+VideoURL - https://drive.google.com/file/d/1jj8JSbGahx2tI_-q5W3YaHwGU2fM4N1-/view?usp=sharing
